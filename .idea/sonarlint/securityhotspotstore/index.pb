@@ -15,3 +15,5 @@ u
 Epet-tech/src/main/java/br/com/fiap/pettech/pettech/StandardError.java,3\5\358e928899cf2f79b285102e7b0873c0c14eeec1
 Å
 Qpet-tech/src/main/java/br/com/fiap/pettech/pettech/ControllerExeptionHandler.java,0\3\0344779e200605fd71b842e1ab2f4d5ed0a1966c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
