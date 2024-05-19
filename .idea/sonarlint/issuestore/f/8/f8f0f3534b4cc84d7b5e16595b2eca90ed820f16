@@ -1,0 +1,7 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Æñú‰ù1J$16e3fd33-6323-42cf-bbaf-ad6bb47ffa7b
+Ž
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿ8Ìñú‰ù1J$83fa3a78-eefb-4de2-bdcd-812da402b70a
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8Ìñú‰ù1J$238c8404-9dd3-42c0-b597-dd7126f02a9e
