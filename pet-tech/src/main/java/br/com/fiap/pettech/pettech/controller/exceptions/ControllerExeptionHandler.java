@@ -1,6 +1,5 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pettech.controller.exceptions;
 
-import jakarta.servlet.http.HttpServletMapping;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
